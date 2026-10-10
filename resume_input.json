@@ -1,0 +1,29 @@
+{
+  "qualification": "B.Tech in Computer Science",
+  "technical_skills": [
+    "Python",
+    "Machine Learning",
+    "NLP",
+    "SQL",
+    "Flask",
+    "FastAPI",
+    "Docker",
+    "Git",
+    "AWS",
+    "JavaScript"
+  ],
+  "experience": "2 years of software engineering experience",
+  "career_objective": "",
+  "projects": [
+    {
+      "name": "AI Resume Assistant",
+      "description": "Built a Python application that converts user profile data into polished resume sections like career objective, technical skills, and project descriptions.",
+      "tech_stack": "Python, OpenAI, JSON, Git"
+    },
+    {
+      "name": "Sentiment Analysis Dashboard",
+      "description": "Developed a dashboard to analyze customer sentiment from product reviews and visualize trends using ML models.",
+      "tech_stack": "Python, Pandas, Scikit-learn, Flask, SQL"
+    }
+  ]
+}
